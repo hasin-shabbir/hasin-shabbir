@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hasin</h1>
 <h3 align="center">A passionate developer and a data science and technology enthusiast</h3>
-# 📊 GitHub Stats:
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasin-shabbir&show_icons=true&locale=en" alt="hasin-shabbir" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasin-shabbir&theme=dark&hide_border=false" alt="hasin-shabbir" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasin-shabbir&hide_border=false" alt="hasin-shabbir" /></p>
 
 - 🔭 I’m currently working on [A simplified TCP application](https://github.com/hasin-shabbir/tcp)
 
