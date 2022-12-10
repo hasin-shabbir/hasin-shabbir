@@ -4,9 +4,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasin-shabbir&show_icons=true&locale=en" alt="hasin-shabbir" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasin-shabbir&theme=dark&hide_border=false" alt="hasin-shabbir" /></p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=hasin-shabbir&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hasin-shabbir&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 - 🔭 I’m currently working on [A simplified TCP application](https://github.com/hasin-shabbir/tcp)
 
 - 🌱 I’m currently learning **GPT, Deep Learning, .NET Core**
