@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **hasin.shabbir@nyu.edu**
 
-- 📄 Know about my experiences [https://github.com/hasin-shabbir/resume/blob/main/hasin_resume.pdf](https://github.com/hasin-shabbir/resume/blob/main/hasin_resume.pdf)
+- 📄 Know about my experiences [here]([https://github.com/hasin-shabbir/resume/blob/main/hasin_resume.pdf](https://github.com/hasin-shabbir/resume))
 
 - ⚡ Fun fact **Love to travel, play guitar, and stare at the astronomical wonders in the night sky**
 
