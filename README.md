@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasin</h1>
-<h3 align="center">A passionate developer and a data science and technology enthusiast</h3>
+<h3 align="center">An impact-driven Software Developer and a data science and technology enthusiast</h3>
 
 <span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasin-shabbir&show_icons=true&locale=en" alt="hasin-shabbir" /></span>
 <span>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasin-shabbir&hide_border=false" alt="hasin-shabbir" /></span>
